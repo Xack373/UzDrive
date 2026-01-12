@@ -1,6 +1,11 @@
 {
-    "showNews": false,
-    "newsText": "Bizning yangi kanalimizga obuna bo'ling!",
+    "showNews": true,
+    "newsId": 101,
+    "newsTitle": "YANGILIK!",
+    "newsText": "Bizning yangi kanalimizga obuna bo'ling va sovg'alarga ega bo'ling!",
     "imageUrl": "https://s3.marketolog.mts.ru/cms-prm/telegram_video_67c088d3eda9a82a94aebfb7.png",
-    "linkUrl": "https://t.me/Uzbek_Gamings"
+    "linkUrl": "https://t.me/Uzbek_Gamings",
+    "buttonText": "OBUNA BO'LISH",
+    "appVersion": "1.0.5",
+    "forceUpdate": false
 }
