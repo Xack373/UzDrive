@@ -1,11 +1,9 @@
 {
     "showNews": true,
-    "newsId": 102,
+    "newsId": 101,
     "newsTitle": "YANGILIK!",
-    "newsText": "Telegram kanalimizga a'zo bo'ling!",
-    "imageUrl": "https://rasm-manzili.jpg",
+    "newsText": "Bizning Telegram kanalimizga obuna bo'ling va sovg'alarga ega bo'ling!",
+    "imageUrl": "https://s3.marketolog.mts.ru/cms-prm/telegram_video_67c088d3eda9a82a94aebfb7.png",
     "linkUrl": "https://t.me/Uzbek_Gamings",
-    "buttonText": "OBUNA BO'LISH",
-    "promoCode": "UZBEK2026",
-    "isMaintenance": false
+    "buttonText": "OBUNA BO'LISH"
 }
